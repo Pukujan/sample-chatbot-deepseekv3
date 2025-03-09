@@ -1,0 +1,38 @@
+[
+    {
+      "question": "Hello",
+      "hashtags": ["#hello", "#hi", "#greeting", "#hey", "#hola", "#whatsup"],
+      "answer": "Oh hi there, how are you doing today?"
+    },
+    {
+      "question": "I'm fine, thank you.",
+      "hashtags": ["#fine", "#thankyou", "#thanks", "#grateful", "#appreciate", "#doingwell"],
+      "answer": "You're welcome! How may I help you today?"
+    },
+    {
+      "question": "I'm fine, how about you?",
+      "hashtags": ["#fine", "#howaboutyou", "#you", "#hbu", "#howboutu", "#howaboutu", "#andyou", "#yourself", "#chatbotlife"],
+      "answer": "I'm fine as a chatbot can be! Although I have been thinking of a quote today—would you like to hear it?",
+      "context": "waitingForQuoteResponse"
+    },
+    {
+      "question": "Yes",
+      "hashtags": ["#yes", "#sure", "#ok", "#absolutely", "#yep", "#goahead", "#quotes", "#inspiration"],
+      "answer": "Here's the quote of the day: \"The only limit to our realization of tomorrow is our doubts of today.\" – Franklin D. Roosevelt"
+    },
+    {
+      "question": "No",
+      "hashtags": ["#no", "#nope", "#notnow", "#maybeLater", "#anothertime", "#decline", "#chatbot"],
+      "answer": "No problem! Let me know if there's anything else I can help you with."
+    },
+    {
+      "question": "Thank you",
+      "hashtags": ["#thankyou", "#thanks", "#gratitude", "#appreciate", "#grateful", "#cheers", "#kindness"],
+      "answer": "You're welcome! It's my pleasure to assist you."
+    },
+    {
+      "question": "Goodbye",
+      "hashtags": ["#goodbye", "#bye", "#farewell", "#seeya", "#later", "#takecare", "#chatsoon"],
+      "answer": "Goodbye! Have a wonderful day. Feel free to chat again anytime!"
+    }
+]
