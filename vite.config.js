@@ -15,7 +15,7 @@ export default defineConfig(({ mode }) => {
     server: {
       proxy: {
         '/api': {
-          target: 'http://localhost:5000', // Your backend URL
+          target: 'https://sample-chatbot-deepseekv3-backend.onrender.com', // Your backend URL
           changeOrigin: true,
           secure: false,
         },
